@@ -2,10 +2,10 @@
 % atom(numéro cellule, stage, nom gène, expression gène)
 
 % Fichier des atomes
-#include "données/.lp".
+#include "données/B.lp".
 
 % constante k
-#const k = 5.
+#const k = 4.
 
 % selectionne les k gènes 
 k{selec_gene(G) : atom(_,_,G,_)}k.
