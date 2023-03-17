@@ -1,0 +1,82 @@
+mer. mars  8 16:50:08 CET 2023
+clingo version 5.5.2
+Reading from algorithmes/k-classes.lp ...
+Solving...
+Answer: 1
+selec_gene(cdx2) selec_gene(lgals1) selec_gene(cd3d) selec_gene(aes) selec_gene(egr1) selec_gene(il32) selec_gene(pml) selec_gene(tert) selec_gene(tcf4) selec_gene(ccnd1)
+Optimization: 0
+Answer: 2
+selec_gene(cdx2) selec_gene(lgals1) selec_gene(cd3d) selec_gene(aes) selec_gene(egr1) selec_gene(il32) selec_gene(pml) selec_gene(tert) selec_gene(tcf4) selec_gene(ccnd1) match(19)
+Optimization: -1
+Answer: 3
+selec_gene(cdx2) selec_gene(lgals1) selec_gene(cd3d) selec_gene(aes) selec_gene(egr1) selec_gene(il32) selec_gene(pml) selec_gene(tert) selec_gene(tcf4) selec_gene(ccnd1) match(19) match(34)
+Optimization: -2
+Answer: 4
+selec_gene(cdx2) selec_gene(lgals1) selec_gene(cd3d) selec_gene(aes) selec_gene(egr1) selec_gene(il32) selec_gene(pml) selec_gene(tert) selec_gene(tcf4) selec_gene(ccnd1) match(19) match(34) match(41)
+Optimization: -3
+Answer: 5
+selec_gene(cdx2) selec_gene(lgals1) selec_gene(cd3d) selec_gene(aes) selec_gene(egr1) selec_gene(il32) selec_gene(pml) selec_gene(tert) selec_gene(tcf4) selec_gene(ccnd1) match(19) match(34) match(41) match(42)
+Optimization: -4
+Answer: 6
+selec_gene(cdx2) selec_gene(lgals1) selec_gene(cd3d) selec_gene(aes) selec_gene(egr1) selec_gene(il32) selec_gene(pml) selec_gene(tert) selec_gene(tcf4) selec_gene(ccnd1) match(19) match(34) match(41) match(42) match(75)
+Optimization: -5
+Answer: 7
+selec_gene(cdx2) selec_gene(lgals1) selec_gene(cd3d) selec_gene(aes) selec_gene(egr1) selec_gene(il32) selec_gene(pml) selec_gene(tert) selec_gene(tcf4) selec_gene(ccnd1) match(19) match(34) match(41) match(42) match(75) match(98)
+Optimization: -6
+Answer: 8
+selec_gene(cdx2) selec_gene(lgals1) selec_gene(cd3d) selec_gene(aes) selec_gene(egr1) selec_gene(il32) selec_gene(pml) selec_gene(tert) selec_gene(tcf4) selec_gene(ccnd1) match(19) match(34) match(41) match(42) match(75) match(98) match(99)
+Optimization: -7
+Answer: 9
+selec_gene(cdx2) selec_gene(lgals1) selec_gene(cd3d) selec_gene(aes) selec_gene(egr1) selec_gene(il32) selec_gene(tert) selec_gene(il6) selec_gene(tcf4) selec_gene(ccnd1) match(34) match(41) match(45) match(46) match(75) match(91) match(98) match(99)
+Optimization: -8
+Answer: 10
+selec_gene(cdx2) selec_gene(lgals1) selec_gene(cd3d) selec_gene(aes) selec_gene(egr1) selec_gene(il32) selec_gene(pml) selec_gene(il6) selec_gene(tcf4) selec_gene(ccnd1) match(35) match(37) match(45) match(62) match(69) match(73) match(75) match(98) match(99)
+Optimization: -9
+Answer: 11
+selec_gene(cdx2) selec_gene(lgals1) selec_gene(cd3d) selec_gene(aes) selec_gene(egr1) selec_gene(il32) selec_gene(pml) selec_gene(il6) selec_gene(tcf4) selec_gene(ccnd1) match(35) match(37) match(40) match(45) match(62) match(69) match(73) match(75) match(98) match(99)
+Optimization: -10
+Answer: 12
+selec_gene(cdx2) selec_gene(lgals1) selec_gene(cd3d) selec_gene(aes) selec_gene(egr1) selec_gene(il32) selec_gene(pml) selec_gene(il6) selec_gene(tcf4) selec_gene(ccnd1) match(35) match(37) match(40) match(45) match(50) match(62) match(69) match(73) match(75) match(98) match(99)
+Optimization: -11
+Answer: 13
+selec_gene(cd3d) selec_gene(pou5f1p4) selec_gene(pou5f1b) selec_gene(cftr) selec_gene(nlrc5) selec_gene(foxp3) selec_gene(igf1r) selec_gene(gli1) selec_gene(esr2) selec_gene(akr1b1) match(1) match(2) match(3) match(4) match(5) match(18) match(27) match(30) match(38) match(42) match(54) match(90)
+Optimization: -12
+Answer: 14
+selec_gene(egr1) selec_gene(egf) selec_gene(cd44) selec_gene(gata4) selec_gene(tnfsf11) selec_gene(nlrc5) selec_gene(il6r) selec_gene(gli2) selec_gene(wnt3a) selec_gene(hdac7) match(1) match(2) match(3) match(13) match(16) match(18) match(24) match(25) match(33) match(34) match(35) match(41) match(0)
+Optimization: -13
+Answer: 15
+selec_gene(egr1) selec_gene(cd44) selec_gene(gata4) selec_gene(tnfsf11) selec_gene(nlrc5) selec_gene(il6r) selec_gene(gli2) selec_gene(wnt3a) selec_gene(hdac7) selec_gene(tcf4) match(1) match(2) match(3) match(4) match(15) match(16) match(24) match(25) match(34) match(35) match(37) match(41) match(47) match(48)
+Optimization: -14
+Answer: 16
+selec_gene(egr1) selec_gene(cd44) selec_gene(gata4) selec_gene(tnfsf11) selec_gene(nlrc5) selec_gene(il6r) selec_gene(gli2) selec_gene(wnt3a) selec_gene(hdac7) selec_gene(tcf4) match(1) match(2) match(3) match(4) match(5) match(15) match(16) match(24) match(25) match(34) match(35) match(37) match(41) match(47) match(48)
+Optimization: -15
+Answer: 17
+selec_gene(egr1) selec_gene(cd44) selec_gene(gata4) selec_gene(tnfsf11) selec_gene(nlrc5) selec_gene(il6r) selec_gene(tymp) selec_gene(gli2) selec_gene(wnt3a) selec_gene(hdac7) match(1) match(2) match(3) match(5) match(13) match(16) match(18) match(24) match(25) match(33) match(41) match(53) match(63) match(76) match(90) match(0)
+Optimization: -16
+Answer: 18
+selec_gene(egr1) selec_gene(cd44) selec_gene(gata4) selec_gene(tnfsf11) selec_gene(nlrc5) selec_gene(il6r) selec_gene(tymp) selec_gene(gli2) selec_gene(wnt3a) selec_gene(hdac7) match(1) match(2) match(3) match(5) match(13) match(16) match(18) match(24) match(25) match(33) match(41) match(53) match(63) match(73) match(76) match(90) match(0)
+Optimization: -17
+Answer: 19
+selec_gene(egr1) selec_gene(mvk) selec_gene(igf1r) selec_gene(sirt1) selec_gene(ahr) selec_gene(gdnf) selec_gene(esr2) selec_gene(akr1b1) selec_gene(yap1) selec_gene(vdr) match(1) match(2) match(3) match(4) match(5) match(7) match(12) match(19) match(26) match(32) match(36) match(37) match(49) match(50) match(54) match(66) match(70) match(90)
+Optimization: -18
+Answer: 20
+selec_gene(egr1) selec_gene(mvk) selec_gene(igf1r) selec_gene(ahr) selec_gene(gdnf) selec_gene(esr2) selec_gene(ccnd1) selec_gene(akr1b1) selec_gene(yap1) selec_gene(vdr) match(1) match(3) match(7) match(8) match(9) match(12) match(14) match(19) match(22) match(29) match(38) match(40) match(41) match(50) match(59) match(65) match(70) match(78) match(90)
+Optimization: -19
+Answer: 21
+selec_gene(egr1) selec_gene(mvk) selec_gene(tymp) selec_gene(igf1r) selec_gene(ahr) selec_gene(gdnf) selec_gene(esr2) selec_gene(akr1b1) selec_gene(yap1) selec_gene(vdr) match(1) match(3) match(4) match(5) match(6) match(7) match(9) match(12) match(19) match(20) match(22) match(26) match(36) match(37) match(41) match(49) match(50) match(54) match(70) match(75)
+Optimization: -20
+Answer: 22
+selec_gene(egr1) selec_gene(mvk) selec_gene(tymp) selec_gene(igf1r) selec_gene(ahr) selec_gene(gdnf) selec_gene(esr2) selec_gene(akr1b1) selec_gene(yap1) selec_gene(vdr) match(1) match(3) match(4) match(5) match(6) match(7) match(9) match(12) match(19) match(20) match(22) match(26) match(36) match(37) match(41) match(49) match(50) match(54) match(59) match(70) match(75)
+Optimization: -21
+Answer: 23
+selec_gene(cftr) selec_gene(il6r) selec_gene(tymp) selec_gene(ap1s1) selec_gene(smarca4) selec_gene(hmgb1) selec_gene(wnt3a) selec_gene(elk1) selec_gene(akr1b1) selec_gene(arnt) match(1) match(3) match(5) match(6) match(11) match(12) match(16) match(20) match(21) match(23) match(25) match(29) match(37) match(41) match(47) match(48) match(53) match(56) match(61) match(75) match(86) match(96)
+Optimization: -22
+Answer: 24
+selec_gene(cftr) selec_gene(il6r) selec_gene(tymp) selec_gene(ap1s1) selec_gene(smarca4) selec_gene(hmgb1) selec_gene(wnt3a) selec_gene(elk1) selec_gene(akr1b1) selec_gene(arnt) match(1) match(3) match(5) match(6) match(11) match(12) match(16) match(20) match(21) match(23) match(25) match(29) match(37) match(41) match(47) match(48) match(53) match(56) match(61) match(75) match(86) match(96) match(98)
+Optimization: -23
+Answer: 25
+selec_gene(egr1) selec_gene(bcl2l1) selec_gene(tymp) selec_gene(smarca4) selec_gene(hmgb1) selec_gene(fgf2) selec_gene(esr2) selec_gene(ccnd1) selec_gene(akr1b1) selec_gene(arnt) match(1) match(2) match(3) match(4) match(7) match(8) match(9) match(11) match(24) match(25) match(33) match(35) match(37) match(40) match(41) match(47) match(50) match(51) match(55) match(59) match(68) match(73) match(99) match(0)
+Optimization: -24
+Answer: 26
+selec_gene(egr1) selec_gene(ercc4) selec_gene(tymp) selec_gene(smarca4) selec_gene(hmgb1) selec_gene(hdac7) selec_gene(tyk2) selec_gene(fgf2) selec_gene(ccnd1) selec_gene(mtss1) match(1) match(3) match(6) match(7) match(9) match(10) match(14) match(15) match(16) match(19) match(20) match(26) match(31) match(32) match(35) match(38) match(40) match(41) match(43) match(44) match(53) match(56) match(59) match(62) match(74)
+Optimization: -25

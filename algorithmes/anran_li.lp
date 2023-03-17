@@ -1,5 +1,5 @@
 %load dataset
-#include "dataB.lp".
+#include "données/anran_li/B.lp".
 %k: definir le nombre de gene a choisir
 #const k = 3.
 

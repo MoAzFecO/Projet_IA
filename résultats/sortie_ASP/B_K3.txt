@@ -1,0 +1,29 @@
+clingo version 5.6.2
+Reading from my_project5.lp
+Solving...
+Answer: 1
+selec_gene(cdx2) selec_gene(lgals1) selec_gene(nr2f2)
+Optimization: 0
+Answer: 2
+selec_gene(cdx2) selec_gene(lgals1) selec_gene(nr2f2) affinite(2,13)
+Optimization: -1
+Answer: 3
+selec_gene(cdx2) selec_gene(lgals1) selec_gene(nr2f2) affinite(2,13) affinite(0,23)
+Optimization: -2
+Answer: 4
+selec_gene(cdx2) selec_gene(lgals1) selec_gene(nr2f2) affinite(2,16) affinite(8,19) affinite(0,20)
+Optimization: -3
+Answer: 5
+selec_gene(cdx2) selec_gene(lgals1) selec_gene(ercc4) affinite(4,17) affinite(0,21) affinite(1,22) affinite(2,23)
+Optimization: -4
+Answer: 6
+selec_gene(lgals1) selec_gene(nr2f2) selec_gene(ercc4) affinite(9,14) affinite(2,15) affinite(7,16) affinite(8,17) affinite(11,23)
+Optimization: -5
+OPTIMUM FOUND
+
+Models       : 6
+  Optimum    : yes
+Optimization : -5
+Calls        : 1
+Time         : 1.900s (Solving: 1.86s 1st Model: 0.00s Unsat: 1.86s)
+CPU Time     : 1.900s

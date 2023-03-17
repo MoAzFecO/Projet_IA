@@ -1,0 +1,2 @@
+Les 3 gènes sélectionnés sont : LGALS1, NR2F2, ERCC4
+Les 5 paires de cellules qui ont des affinités sont : ('E5.10.945', 'E5.13.1767'), ('E5.1.32', 'E5.16.1889'), ('E5.10.943', 'E5.3.55'), ('E5.10.944', 'E5.37.3234'), ('E5.12.1027', 'E6.1.82')

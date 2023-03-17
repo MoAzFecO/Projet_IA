@@ -1,0 +1,37 @@
+clingo version 5.6.2
+Reading from my_project5.lp
+Solving...
+Answer: 1
+selec_gene(lgals1) selec_gene(nr2f2) selec_gene(ercc4)
+Optimization: -5
+Answer: 2
+selec_gene(lgals1) selec_gene(serpinb5) selec_gene(ercc4)
+Optimization: -5
+Answer: 3
+selec_gene(aes) selec_gene(serpinb5) selec_gene(ercc4)
+Optimization: -5
+Answer: 4
+selec_gene(egr1) selec_gene(serpinb5) selec_gene(prdm14)
+Optimization: -5
+Answer: 5
+selec_gene(aes) selec_gene(egr1) selec_gene(prdm14)
+Optimization: -5
+Answer: 6
+selec_gene(lgals1) selec_gene(ercc4) selec_gene(prdm14)
+Optimization: -5
+Answer: 7
+selec_gene(aes) selec_gene(ercc4) selec_gene(prdm14)
+Optimization: -5
+Answer: 8
+selec_gene(egr1) selec_gene(prdm14) selec_gene(fgfr4)
+Optimization: -5
+Answer: 9
+selec_gene(aes) selec_gene(cd44) selec_gene(ercc4)
+Optimization: -5
+OPTIMUM FOUND
+
+Models       : 9
+  Optimum    : yes
+Calls        : 1
+Time         : 1.092s (Solving: 1.04s 1st Model: 0.00s Unsat: 1.02s)
+CPU Time     : 1.079s

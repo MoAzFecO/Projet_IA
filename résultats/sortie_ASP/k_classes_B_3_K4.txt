@@ -1,0 +1,26 @@
+clingo version 5.6.2
+Reading from k-classes.lp
+Solving...
+Answer: 1
+selec_gene(cdx2) selec_gene(lgals1) selec_gene(aes) selec_gene(nr2f2)
+Optimization: 0
+Answer: 2
+selec_gene(cdx2) selec_gene(lgals1) selec_gene(aes) selec_gene(nr2f2) match(2)
+Optimization: -1
+Answer: 3
+selec_gene(cdx2) selec_gene(lgals1) selec_gene(nr2f2) selec_gene(ercc4) match(2) match(7)
+Optimization: -2
+Answer: 4
+selec_gene(cdx2) selec_gene(aes) selec_gene(nr2f2) selec_gene(ercc4) match(2) match(7) match(9)
+Optimization: -3
+Answer: 5
+selec_gene(egr1) selec_gene(egf) selec_gene(hey1) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+OPTIMUM FOUND
+
+Models       : 5
+  Optimum    : yes
+Optimization : -4
+Calls        : 1
+Time         : 6.818s (Solving: 6.78s 1st Model: 0.00s Unsat: 6.73s)
+CPU Time     : 6.818s

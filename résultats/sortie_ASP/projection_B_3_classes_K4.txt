@@ -1,0 +1,580 @@
+clingo version 5.6.2
+Reading from k-classes.lp
+Solving...
+Answer: 1
+selec_gene(egr1) selec_gene(egf) selec_gene(hey1) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 2
+selec_gene(egr1) selec_gene(egf) selec_gene(prdm14) selec_gene(fgfr4) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 3
+selec_gene(cdx2) selec_gene(egr1) selec_gene(egf) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 4
+selec_gene(egr1) selec_gene(egf) selec_gene(igf2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 5
+selec_gene(egr1) selec_gene(egf) selec_gene(cfd) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 6
+selec_gene(egr1) selec_gene(egf) selec_gene(cd44) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 7
+selec_gene(egr1) selec_gene(egf) selec_gene(il23r) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 8
+selec_gene(egr1) selec_gene(egf) selec_gene(htr2a) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 9
+selec_gene(egr1) selec_gene(egf) selec_gene(spen) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 10
+selec_gene(egr1) selec_gene(egf) selec_gene(sod2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 11
+selec_gene(egr1) selec_gene(egf) selec_gene(usf2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 12
+selec_gene(egr1) selec_gene(egf) selec_gene(pou5f1p4) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 13
+selec_gene(egr1) selec_gene(egf) selec_gene(shh) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 14
+selec_gene(egr1) selec_gene(egf) selec_gene(zeb1) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 15
+selec_gene(cd3d) selec_gene(egr1) selec_gene(egf) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 16
+selec_gene(egr1) selec_gene(egf) selec_gene(tnfsf11) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 17
+selec_gene(egr1) selec_gene(egf) selec_gene(prdm14) selec_gene(cd3e) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 18
+selec_gene(egr1) selec_gene(egf) selec_gene(cyp3a4) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 19
+selec_gene(egr1) selec_gene(cd44) selec_gene(hey1) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 20
+selec_gene(egr1) selec_gene(hey1) selec_gene(prdm14) selec_gene(fgfr4) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 21
+selec_gene(cdx2) selec_gene(egr1) selec_gene(hey1) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 22
+selec_gene(egr1) selec_gene(hey1) selec_gene(igf2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 23
+selec_gene(egr1) selec_gene(hey1) selec_gene(tnfsf11) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 24
+selec_gene(egr1) selec_gene(hey1) selec_gene(zeb1) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 25
+selec_gene(cd3d) selec_gene(egr1) selec_gene(hey1) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 26
+selec_gene(egr1) selec_gene(hey1) selec_gene(prdm14) selec_gene(cd3e) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 27
+selec_gene(egr1) selec_gene(hey1) selec_gene(cyp3a4) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 28
+selec_gene(egr1) selec_gene(hey1) selec_gene(shh) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 29
+selec_gene(egr1) selec_gene(htr2a) selec_gene(hey1) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 30
+selec_gene(egr1) selec_gene(hey1) selec_gene(sod2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 31
+selec_gene(egr1) selec_gene(hey1) selec_gene(usf2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 32
+selec_gene(egr1) selec_gene(spen) selec_gene(hey1) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 33
+selec_gene(egr1) selec_gene(hey1) selec_gene(il23r) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 34
+selec_gene(egr1) selec_gene(hey1) selec_gene(pou5f1p4) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 35
+selec_gene(egr1) selec_gene(hey1) selec_gene(cfd) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 36
+selec_gene(egr1) selec_gene(usf2) selec_gene(igf2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 37
+selec_gene(egr1) selec_gene(cyp3a4) selec_gene(usf2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 38
+selec_gene(cd3d) selec_gene(egr1) selec_gene(usf2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 39
+selec_gene(cdx2) selec_gene(egr1) selec_gene(usf2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 40
+selec_gene(cd3d) selec_gene(egr1) selec_gene(igf2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 41
+selec_gene(cdx2) selec_gene(egr1) selec_gene(igf2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 42
+selec_gene(cdx2) selec_gene(cd3d) selec_gene(egr1) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 43
+selec_gene(cd3d) selec_gene(egr1) selec_gene(cyp3a4) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 44
+selec_gene(egr1) selec_gene(cyp3a4) selec_gene(igf2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 45
+selec_gene(cdx2) selec_gene(egr1) selec_gene(cyp3a4) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 46
+selec_gene(cd3d) selec_gene(egr1) selec_gene(pou5f1p4) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 47
+selec_gene(egr1) selec_gene(pou5f1p4) selec_gene(igf2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 48
+selec_gene(egr1) selec_gene(pou5f1p4) selec_gene(usf2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 49
+selec_gene(egr1) selec_gene(cyp3a4) selec_gene(pou5f1p4) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 50
+selec_gene(cdx2) selec_gene(egr1) selec_gene(pou5f1p4) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 51
+selec_gene(egr1) selec_gene(spen) selec_gene(usf2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 52
+selec_gene(egr1) selec_gene(spen) selec_gene(igf2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 53
+selec_gene(cd3d) selec_gene(egr1) selec_gene(spen) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 54
+selec_gene(egr1) selec_gene(spen) selec_gene(pou5f1p4) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 55
+selec_gene(cdx2) selec_gene(egr1) selec_gene(spen) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 56
+selec_gene(egr1) selec_gene(spen) selec_gene(cyp3a4) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 57
+selec_gene(cd3d) selec_gene(egr1) selec_gene(shh) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 58
+selec_gene(egr1) selec_gene(shh) selec_gene(igf2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 59
+selec_gene(egr1) selec_gene(shh) selec_gene(usf2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 60
+selec_gene(egr1) selec_gene(spen) selec_gene(shh) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 61
+selec_gene(cdx2) selec_gene(egr1) selec_gene(shh) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 62
+selec_gene(egr1) selec_gene(cyp3a4) selec_gene(shh) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 63
+selec_gene(egr1) selec_gene(shh) selec_gene(pou5f1p4) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 64
+selec_gene(cd3d) selec_gene(egr1) selec_gene(htr2a) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 65
+selec_gene(egr1) selec_gene(htr2a) selec_gene(igf2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 66
+selec_gene(egr1) selec_gene(htr2a) selec_gene(usf2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 67
+selec_gene(egr1) selec_gene(htr2a) selec_gene(spen) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 68
+selec_gene(cdx2) selec_gene(egr1) selec_gene(htr2a) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 69
+selec_gene(egr1) selec_gene(htr2a) selec_gene(cyp3a4) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 70
+selec_gene(egr1) selec_gene(htr2a) selec_gene(pou5f1p4) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 71
+selec_gene(egr1) selec_gene(htr2a) selec_gene(shh) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 72
+selec_gene(egr1) selec_gene(cd44) selec_gene(usf2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 73
+selec_gene(egr1) selec_gene(cd44) selec_gene(igf2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 74
+selec_gene(cd3d) selec_gene(egr1) selec_gene(cd44) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 75
+selec_gene(egr1) selec_gene(cd44) selec_gene(cyp3a4) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 76
+selec_gene(egr1) selec_gene(cd44) selec_gene(spen) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 77
+selec_gene(cdx2) selec_gene(egr1) selec_gene(cd44) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 78
+selec_gene(egr1) selec_gene(cd44) selec_gene(pou5f1p4) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 79
+selec_gene(egr1) selec_gene(cd44) selec_gene(shh) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 80
+selec_gene(egr1) selec_gene(htr2a) selec_gene(cd44) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 81
+selec_gene(egr1) selec_gene(usf2) selec_gene(prdm14) selec_gene(fgfr4) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 82
+selec_gene(cd3d) selec_gene(egr1) selec_gene(prdm14) selec_gene(fgfr4) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 83
+selec_gene(egr1) selec_gene(igf2) selec_gene(prdm14) selec_gene(fgfr4) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 84
+selec_gene(egr1) selec_gene(cd44) selec_gene(prdm14) selec_gene(fgfr4) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 85
+selec_gene(egr1) selec_gene(shh) selec_gene(prdm14) selec_gene(fgfr4) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 86
+selec_gene(egr1) selec_gene(htr2a) selec_gene(prdm14) selec_gene(fgfr4) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 87
+selec_gene(egr1) selec_gene(cyp3a4) selec_gene(prdm14) selec_gene(fgfr4) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 88
+selec_gene(egr1) selec_gene(pou5f1p4) selec_gene(prdm14) selec_gene(fgfr4) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 89
+selec_gene(cdx2) selec_gene(egr1) selec_gene(prdm14) selec_gene(fgfr4) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 90
+selec_gene(egr1) selec_gene(spen) selec_gene(prdm14) selec_gene(fgfr4) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 91
+selec_gene(cd3d) selec_gene(egr1) selec_gene(il23r) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 92
+selec_gene(egr1) selec_gene(usf2) selec_gene(il23r) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 93
+selec_gene(egr1) selec_gene(igf2) selec_gene(il23r) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 94
+selec_gene(egr1) selec_gene(cyp3a4) selec_gene(il23r) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 95
+selec_gene(egr1) selec_gene(cd44) selec_gene(il23r) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 96
+selec_gene(egr1) selec_gene(shh) selec_gene(il23r) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 97
+selec_gene(egr1) selec_gene(htr2a) selec_gene(il23r) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 98
+selec_gene(cdx2) selec_gene(egr1) selec_gene(il23r) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 99
+selec_gene(egr1) selec_gene(pou5f1p4) selec_gene(il23r) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 100
+selec_gene(egr1) selec_gene(spen) selec_gene(il23r) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 101
+selec_gene(egr1) selec_gene(il23r) selec_gene(prdm14) selec_gene(fgfr4) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 102
+selec_gene(egr1) selec_gene(igf2) selec_gene(zeb1) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 103
+selec_gene(cd3d) selec_gene(egr1) selec_gene(zeb1) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 104
+selec_gene(egr1) selec_gene(usf2) selec_gene(zeb1) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 105
+selec_gene(egr1) selec_gene(spen) selec_gene(zeb1) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 106
+selec_gene(egr1) selec_gene(shh) selec_gene(zeb1) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 107
+selec_gene(egr1) selec_gene(pou5f1p4) selec_gene(zeb1) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 108
+selec_gene(egr1) selec_gene(zeb1) selec_gene(prdm14) selec_gene(fgfr4) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 109
+selec_gene(cdx2) selec_gene(egr1) selec_gene(zeb1) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 110
+selec_gene(egr1) selec_gene(htr2a) selec_gene(zeb1) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 111
+selec_gene(egr1) selec_gene(cd44) selec_gene(zeb1) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 112
+selec_gene(egr1) selec_gene(cyp3a4) selec_gene(zeb1) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 113
+selec_gene(egr1) selec_gene(zeb1) selec_gene(il23r) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 114
+selec_gene(egr1) selec_gene(igf2) selec_gene(sod2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 115
+selec_gene(egr1) selec_gene(spen) selec_gene(sod2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 116
+selec_gene(egr1) selec_gene(sod2) selec_gene(prdm14) selec_gene(fgfr4) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 117
+selec_gene(egr1) selec_gene(cd44) selec_gene(sod2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 118
+selec_gene(egr1) selec_gene(usf2) selec_gene(sod2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 119
+selec_gene(egr1) selec_gene(zeb1) selec_gene(sod2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 120
+selec_gene(cd3d) selec_gene(egr1) selec_gene(sod2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 121
+selec_gene(egr1) selec_gene(shh) selec_gene(sod2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 122
+selec_gene(egr1) selec_gene(pou5f1p4) selec_gene(sod2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 123
+selec_gene(cdx2) selec_gene(egr1) selec_gene(sod2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 124
+selec_gene(egr1) selec_gene(cyp3a4) selec_gene(sod2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 125
+selec_gene(egr1) selec_gene(il23r) selec_gene(sod2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 126
+selec_gene(egr1) selec_gene(htr2a) selec_gene(sod2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 127
+selec_gene(egr1) selec_gene(tnfsf11) selec_gene(prdm14) selec_gene(fgfr4) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 128
+selec_gene(egr1) selec_gene(usf2) selec_gene(tnfsf11) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 129
+selec_gene(egr1) selec_gene(igf2) selec_gene(tnfsf11) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 130
+selec_gene(egr1) selec_gene(spen) selec_gene(tnfsf11) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 131
+selec_gene(egr1) selec_gene(tnfsf11) selec_gene(zeb1) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 132
+selec_gene(cd3d) selec_gene(egr1) selec_gene(tnfsf11) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 133
+selec_gene(egr1) selec_gene(shh) selec_gene(tnfsf11) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 134
+selec_gene(egr1) selec_gene(pou5f1p4) selec_gene(tnfsf11) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 135
+selec_gene(cdx2) selec_gene(egr1) selec_gene(tnfsf11) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 136
+selec_gene(egr1) selec_gene(tnfsf11) selec_gene(il23r) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 137
+selec_gene(egr1) selec_gene(htr2a) selec_gene(tnfsf11) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 138
+selec_gene(egr1) selec_gene(cd44) selec_gene(tnfsf11) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 139
+selec_gene(egr1) selec_gene(tnfsf11) selec_gene(sod2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 140
+selec_gene(egr1) selec_gene(cyp3a4) selec_gene(tnfsf11) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 141
+selec_gene(egr1) selec_gene(cd44) selec_gene(prdm14) selec_gene(cd3e) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 142
+selec_gene(egr1) selec_gene(htr2a) selec_gene(prdm14) selec_gene(cd3e) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 143
+selec_gene(egr1) selec_gene(sod2) selec_gene(prdm14) selec_gene(cd3e) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 144
+selec_gene(egr1) selec_gene(tnfsf11) selec_gene(prdm14) selec_gene(cd3e) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 145
+selec_gene(egr1) selec_gene(il23r) selec_gene(prdm14) selec_gene(cd3e) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 146
+selec_gene(cdx2) selec_gene(egr1) selec_gene(prdm14) selec_gene(cd3e) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 147
+selec_gene(egr1) selec_gene(pou5f1p4) selec_gene(prdm14) selec_gene(cd3e) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 148
+selec_gene(egr1) selec_gene(shh) selec_gene(prdm14) selec_gene(cd3e) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 149
+selec_gene(cd3d) selec_gene(egr1) selec_gene(prdm14) selec_gene(cd3e) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 150
+selec_gene(egr1) selec_gene(zeb1) selec_gene(prdm14) selec_gene(cd3e) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 151
+selec_gene(egr1) selec_gene(spen) selec_gene(prdm14) selec_gene(cd3e) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 152
+selec_gene(egr1) selec_gene(igf2) selec_gene(prdm14) selec_gene(cd3e) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 153
+selec_gene(egr1) selec_gene(usf2) selec_gene(prdm14) selec_gene(cd3e) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 154
+selec_gene(egr1) selec_gene(prdm14) selec_gene(fgfr4) selec_gene(cd3e) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 155
+selec_gene(egr1) selec_gene(cyp3a4) selec_gene(prdm14) selec_gene(cd3e) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 156
+selec_gene(egr1) selec_gene(cd44) selec_gene(cfd) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 157
+selec_gene(egr1) selec_gene(htr2a) selec_gene(cfd) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 158
+selec_gene(egr1) selec_gene(cfd) selec_gene(il23r) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 159
+selec_gene(egr1) selec_gene(pou5f1p4) selec_gene(cfd) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 160
+selec_gene(egr1) selec_gene(shh) selec_gene(cfd) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 161
+selec_gene(cd3d) selec_gene(egr1) selec_gene(cfd) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 162
+selec_gene(egr1) selec_gene(cfd) selec_gene(zeb1) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 163
+selec_gene(egr1) selec_gene(spen) selec_gene(cfd) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 164
+selec_gene(egr1) selec_gene(cfd) selec_gene(igf2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 165
+selec_gene(egr1) selec_gene(usf2) selec_gene(cfd) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 166
+selec_gene(egr1) selec_gene(cfd) selec_gene(prdm14) selec_gene(fgfr4) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 167
+selec_gene(egr1) selec_gene(cyp3a4) selec_gene(cfd) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 168
+selec_gene(egr1) selec_gene(cfd) selec_gene(sod2) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 169
+selec_gene(egr1) selec_gene(cfd) selec_gene(tnfsf11) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 170
+selec_gene(cdx2) selec_gene(egr1) selec_gene(cfd) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 171
+selec_gene(egr1) selec_gene(cfd) selec_gene(prdm14) selec_gene(cd3e) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 172
+selec_gene(egr1) selec_gene(hey1) selec_gene(clec4e) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 173
+selec_gene(egr1) selec_gene(pou5f1p4) selec_gene(clec4e) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 174
+selec_gene(egr1) selec_gene(egf) selec_gene(clec4e) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 175
+selec_gene(egr1) selec_gene(igf2) selec_gene(clec4e) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 176
+selec_gene(cdx2) selec_gene(egr1) selec_gene(clec4e) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 177
+selec_gene(egr1) selec_gene(il23r) selec_gene(clec4e) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 178
+selec_gene(egr1) selec_gene(cfd) selec_gene(clec4e) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 179
+selec_gene(egr1) selec_gene(tnfsf11) selec_gene(clec4e) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 180
+selec_gene(cd3d) selec_gene(egr1) selec_gene(clec4e) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 181
+selec_gene(egr1) selec_gene(cd44) selec_gene(clec4e) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 182
+selec_gene(egr1) selec_gene(shh) selec_gene(clec4e) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 183
+selec_gene(egr1) selec_gene(htr2a) selec_gene(clec4e) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 184
+selec_gene(egr1) selec_gene(usf2) selec_gene(clec4e) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 185
+selec_gene(egr1) selec_gene(cyp3a4) selec_gene(clec4e) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 186
+selec_gene(egr1) selec_gene(clec4e) selec_gene(prdm14) selec_gene(cd3e) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 187
+selec_gene(egr1) selec_gene(sod2) selec_gene(clec4e) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 188
+selec_gene(egr1) selec_gene(clec4e) selec_gene(prdm14) selec_gene(fgfr4) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 189
+selec_gene(egr1) selec_gene(zeb1) selec_gene(clec4e) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+Answer: 190
+selec_gene(egr1) selec_gene(spen) selec_gene(clec4e) selec_gene(prdm14) match(1) match(3) match(5) match(0)
+Optimization: -4
+OPTIMUM FOUND
+
+Models       : 190
+  Optimum    : yes
+Calls        : 1
+Time         : 5.076s (Solving: 5.04s 1st Model: 0.07s Unsat: 0.05s)
+CPU Time     : 5.074s

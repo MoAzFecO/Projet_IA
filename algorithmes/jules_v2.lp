@@ -1,3 +1,4 @@
+% Cet algorithme s'inspire de l'algorithme ASP k-classes.lp pour le cas k=2
 % Les atomes sont de la forme : 
 % atom(numéro cellule, stage, nom gène, expression gène)
 
@@ -18,14 +19,14 @@ aff(C1,C2) :- aff_gene(C1,C2,_).
 all_affinite(C1,C2) :- k == #count {G : aff_gene(C1,C2,G)} , aff(C1,C2).
 
 % celles qui nous intéressent
-0{affinite(C)}1 :- all_affinite(C,_).
+0{match(C)}1 :- all_affinite(C,_).
 
 meme_affinite(C1, C2) :- C1 < C2, all_affinite(C1, C3), all_affinite(C2, C3).
-:- affinite(C2), meme_affinite(_,C2).
+:- match(C2), meme_affinite(_,C2).
 
 % maximise les affinités
-#maximize {1, C : affinite(C)}.
+#maximize {1, C : match(C)}.
 
 % renvoie les k gènes sélectionnés et le nombre d'affinité
 #show selec_gene/1.
-#show affinite/1.
+#show match/1.
